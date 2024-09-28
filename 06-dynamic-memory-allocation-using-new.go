@@ -8,3 +8,4 @@ func main(){
   *p = 42
   fmt.Println("After:",*p)
 }
+//The new function allocates memory for an integer and returns a pointer to it. The memory is zero-initialized by default.
